@@ -7,7 +7,7 @@ Esse projeto tem uma interface fixa e foi inspirado no site [Globo.com](https://
 ## Confira:
 
 <p align="start">
-  <img width="600" src="Site-finalizado.png" alt="MyWallet-gif">
+  <img width="600" src="Site-finalizado.png" alt="Globo.com-gif">
 </p>
 
 * Você pode acessar essa aplicação nesse link:
