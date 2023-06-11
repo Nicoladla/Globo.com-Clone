@@ -29,4 +29,4 @@ Essa aplicação foi desenvolvida utilizando as tecnologias:
 git clone https://github.com/Nicoladla/Globo.com-Clone.git
 ```
 
-* Após isso, você pode abrir a pasta do projeto na sua máquina e abrir o arquivo ``index.html`` no seu navegador.
+* Após isso, você pode entrar na pasta do projeto e abrir o arquivo ``index.html`` no seu navegador.
